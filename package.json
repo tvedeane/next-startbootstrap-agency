@@ -12,11 +12,7 @@
     "build": "pnpm css && next build",
     "start": "next start",
     "lint": "next lint",
-    "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'",
-    "e2e": "playwright test",
-    "e2e:upd": "playwright test --update-snapshots",
-    "e2e:report": "playwright show-report",
-    "e2e:docker": "docker-compose build && docker-compose up"
+    "prettier": "prettier --write '**/*.{js,jsx,ts,tsx}'"
   },
   "dependencies": {
     "clsx": "^2.0.0",
