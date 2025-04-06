@@ -20,7 +20,7 @@ interface NavbarProps {
 
 const navbarCss = 'fixed-top bg-#212529';
 const navbarCssMd = 'md:bg-transparent md:transition-padding md:duration-300 md:b-none md:py-8px';
-const brandCss = 'cursor-pointer color-primary font-script';
+const brandCss = 'cursor-pointer color-#FFFFFF font-script';
 const brandCssMd = 'md:text-30px md:transition-all md:duration-300';
 const togglerCss =
   'text-12px right-0 p-13px uppercase color-white b-0 bg-primary font-heading flex gap-3px';

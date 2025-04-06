@@ -50,7 +50,7 @@ export default defineConfig({
       gray700: '#495057',
       gray800: '#343a40',
       gray900: '#212529',
-      primary: '#fed136',
+      primary: '#000000',
       muted: '#868e96',
     },
     fontFamily: {

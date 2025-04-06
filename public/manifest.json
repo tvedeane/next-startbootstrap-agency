@@ -3,7 +3,7 @@
   "short_name": "next-startbootstrap-agency",
   "start_url": "/",
   "background_color": "#ffffff",
-  "theme_color": "#fed136",
+  "theme_color": "#000000",
   "display": "minimal-ui",
   "icons": [
     {
